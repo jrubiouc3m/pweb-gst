@@ -1,0 +1,1 @@
+Directorio para contenido relacionado con Gstreamer
